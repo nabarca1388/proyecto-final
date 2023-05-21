@@ -1,0 +1,24 @@
+[
+    {
+        "cart_Id": 1,
+        "cart": []
+    },
+    {
+        "cart_Id": 2,
+        "cart": [
+            {
+                "prod_id": 8,
+                "prod_stock": 2
+            }
+        ]
+    },
+    {
+        "cart_Id": 3,
+        "cart": [
+            {
+                "prod_id": 2,
+                "prod_stock": 3
+            }
+        ]
+    }
+]
